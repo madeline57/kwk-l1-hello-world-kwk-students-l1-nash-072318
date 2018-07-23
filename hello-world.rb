@@ -1,2 +1,2 @@
 # puts means "put string"
-puts"Hello World"
+puts "Hello World"
