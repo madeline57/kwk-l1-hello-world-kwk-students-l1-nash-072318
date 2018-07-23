@@ -1,1 +1,2 @@
-puts" hello world "
+# puts means "put string"
+puts"hello world"
